@@ -4,7 +4,7 @@
 
 [Portfolio · www.ephka.fr](https://www.ephka.fr)
 
-J’ai encadré jusqu’à huit techniciens de support et piloté des projets de déploiement, de la coordination des prestataires à l’accompagnement des utilisateurs. Côté projets personnels, je développe pour le web et macOS. J’y explore l’IA locale, l’automatisation et la recherche en sources ouvertes (OSINT).
+J’ai encadré des équipes de techniciens de support et piloté des projets de déploiement, de la coordination des prestataires à l’accompagnement des utilisateurs. Côté projets personnels, je développe pour le web et macOS. J’y explore l’IA locale, l’automatisation et la recherche en sources ouvertes (OSINT).
 
 ## Quatre projets à découvrir
 
