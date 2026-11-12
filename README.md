@@ -20,5 +20,5 @@ Les dépôts publics présentent les projets, leurs fonctionnalités et leurs ca
 ## Mes outils et pratiques
 
 - **Opérations IT** · Support utilisateurs, coordination d’incidents majeurs, déploiements et gestion de parc. GLPI, ServiceNow et Jira font partie des outils de mon parcours.
-- **Développement web** · PHP pour mes sites et Python pour mes outils personnels.
-- **Automatisation et IA** · n8n, modèles de langage locaux et ComfyUI.
+- **Développement web full stack** · Je développe des interfaces en HTML, CSS et JavaScript natif, et des applications en PHP avec MariaDB. J’ai utilisé Tailwind CSS et GSAP (ScrollTrigger) sur NuVoice, ainsi que Slim 4 et Twig sur A. Kairouz.
+- **Automatisation et IA** · Python, n8n, modèles de langage locaux et ComfyUI.
