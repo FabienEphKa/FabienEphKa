@@ -20,5 +20,5 @@ Les dépôts publics présentent les projets, leurs fonctionnalités et leurs ca
 ## Mes outils et pratiques
 
 - **Opérations IT** · Support utilisateurs, coordination d’incidents majeurs, déploiements et gestion de parc. GLPI, ServiceNow et Jira font partie des outils de mon parcours.
-- **Développement web** · PHP, WordPress et Python pour des sites et des outils personnels.
+- **Développement web** · PHP pour mes sites et Python pour mes outils personnels.
 - **Automatisation et IA** · n8n, modèles de langage locaux et ComfyUI.
