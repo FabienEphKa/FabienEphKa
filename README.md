@@ -10,10 +10,10 @@ J’ai encadré des équipes de techniciens de support et piloté des projets de
 
 | Projet | Ce que j’ai créé |
 | --- | --- |
-| [SKORPIA](https://github.com/FabienEphKa/SKORPIA) | Une application macOS qui réunit conversation, aide au développement et création de médias avec des modèles d’IA locaux. |
-| [SCORPIOSINT](https://github.com/FabienEphKa/SCORPIOSINT) | Une application macOS qui centralise des outils et services de recherche en sources ouvertes. |
+| [SKORPIA](https://github.com/FabienEphKa/SKORPIA) | Une application macOS qui réunit conversation, aide au développement et création de médias avec des modèles d’IA locaux. Portage Windows prévu. |
+| [SCORPIOSINT](https://github.com/FabienEphKa/SCORPIOSINT) | Une application macOS qui centralise des outils et services de recherche en sources ouvertes. Portage Windows prévu. |
 | [ATYPIKIA](https://github.com/FabienEphKa/ATYPIKIA) | Une plateforme francophone de pré-dépistage et d’orientation autour de la neurodiversité. |
-| [LazyBrady](https://github.com/FabienEphKa/LazyBrady) | Une application macOS en développement pour organiser la recherche d’emploi et le suivi des candidatures, avec une extension Chrome et de l’IA locale. |
+| [LazyBrady](https://github.com/FabienEphKa/LazyBrady) | Une application macOS en développement pour organiser la recherche d’emploi et le suivi des candidatures, avec une extension Chrome et de l’IA locale. Portage Windows prévu. |
 
 Les dépôts publics présentent les projets, leurs fonctionnalités et leurs captures d’écran.
 
